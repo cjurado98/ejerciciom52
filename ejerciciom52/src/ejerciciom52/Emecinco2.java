@@ -29,4 +29,4 @@ public class Emecinco2 {
 			imprimir(factos, "factos");
 		}
 	}
-}
+
